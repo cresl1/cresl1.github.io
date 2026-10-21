@@ -52,3 +52,5 @@ footer a{color:var(--ink-2)}
 }
 @media (min-width:1000px){.cards{grid-template-columns:repeat(3,1fr)}}
 @media (prefers-reduced-motion:reduce){.btn,.card{transition:none}}
+
+.disclosure{font-size:.8rem;color:var(--gold-deep);margin:.9rem 0 0;text-align:center}
