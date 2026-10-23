@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cresl Studio — planners, playbooks & kids books</title>
+  <meta name="description" content="Cresl Studio: the 2027 Vendor &amp; Small Business Planner as an iPad planner (GoodNotes) and an Amazon hardcover, the Clipping Campaign Playbook for creators, and Little Guess Zoo kids coloring books on Gumroad and Amazon.">
+  <link rel="canonical" href="https://cresl1.github.io/">
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <meta name="theme-color" content="#1b2233">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Cresl Studio">
+  <meta property="og:title" content="Cresl Studio — planners, playbooks & kids books">
+  <meta property="og:description" content="The 2027 Digital Planner for iPad, the Clipping Campaign Playbook, and Little Guess Zoo kids books. All links in one place.">
+  <meta property="og:url" content="https://cresl1.github.io/">
+  <meta property="og:image" content="https://cresl1.github.io/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Cresl Studio">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cresl Studio — planners, playbooks & kids books">
+  <meta name="twitter:description" content="The 2027 Digital Planner for iPad, the Clipping Campaign Playbook, and Little Guess Zoo kids books.">
+  <meta name="twitter:image" content="https://cresl1.github.io/og.jpg">
+  <link rel="preload" href="fonts/playfair-600.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#products">Skip to products</a>
+  <header class="hero">
+    <img class="logo" src="img/logo.jpg" width="320" height="320" alt="Cresl Studio monogram">
+    <h1>Cresl Studio</h1>
+    <p class="tagline">Planners, playbooks &amp; kids books</p>
+    <p class="intro">Digital planners for vendors and small businesses, a playbook for creators, and the Little Guess Zoo coloring books for little hands.</p>
+    <nav class="social" aria-label="Follow and shop">
+      <a class="btn primary" href="https://www.tiktok.com/@creslstudio" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M16.6 5.8a4.3 4.3 0 0 1-1-2.8h-3.1v12.4a2.6 2.6 0 1 1-2.6-2.6c.3 0 .5 0 .8.1V9.7a5.7 5.7 0 1 0 4.9 5.7V9.2a7.4 7.4 0 0 0 4.3 1.4V7.5a4.3 4.3 0 0 1-3.3-1.7z"/></svg>
+        Follow on TikTok
+      </a>
+      <a class="btn" href="https://cresl1.gumroad.com" target="_blank" rel="noopener">Gumroad store</a>
+      <a class="btn" href="https://www.amazon.com/dp/B0HNPQ5R2D?tag=creslstudio-20" target="_blank" rel="noopener">On Amazon</a>
+    </nav>
+    <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+  </header>
+
+  <main id="products">
+  <section class="group" aria-labelledby="h-planners">
+    <h2 id="h-planners">Planners &amp; Business</h2>
+    <p class="blurb">For vendors, small businesses and creators.</p>
+    <div class="cards">
+      <a class="card" href="https://cresl1.gumroad.com/l/2027-vendor-planner-ipad" target="_blank" rel="noopener">
+        <img src="img/planner-ipad.jpg" width="600" height="600" alt="2027 Digital Planner for iPad cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Gumroad · digital<span class="badge">Featured</span></span>
+          <span class="title">2027 Digital Planner for iPad</span>
+          <span class="sub">Vendor &amp; small-business planner for GoodNotes · hyperlinked monthly, weekly &amp; daily pages · 4 colorways · includes Oct–Dec 2026 bonus pages, so you can start today</span>
+          <span class="price">$14.99</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0HNPQ5R2D?tag=creslstudio-20" target="_blank" rel="noopener">
+        <img src="img/planner-hc-women.jpg" width="480" height="639" alt="2027 Vendor &amp; Small Business Planner hardcover, ivory and rose gold cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · hardcover<span class="badge">New</span></span>
+          <span class="title">2027 Vendor &amp; Small Business Planner (Ivory &amp; Rose Gold)</span>
+          <span class="sub">The paper version: weekly and monthly organizer for markets, craft fairs and pop-up shops · 8.25 × 11 in case-laminate hardcover · event pages, sales and expense logs · Oct–Dec 2026 bonus pages included</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0HNPRVG4L?tag=creslstudio-20" target="_blank" rel="noopener">
+        <img src="img/planner-hc-men.jpg" width="480" height="639" alt="2027 Vendor &amp; Small Business Planner hardcover, black and gold cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · hardcover<span class="badge">New</span></span>
+          <span class="title">2027 Vendor &amp; Small Business Planner (Black &amp; Gold)</span>
+          <span class="sub">Same planner, executive black and gold cover · weekly and monthly organizer for markets, craft fairs and pop-up shops · 8.25 × 11 in hardcover · Oct–Dec 2026 bonus pages included</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0HNGVVS5C?tag=creslstudio-20" target="_blank" rel="noopener">
+        <img src="img/playbook.jpg" width="427" height="640" alt="The Clipping Campaign Playbook cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · Kindle eBook<span class="badge">New</span></span>
+          <span class="title">The Clipping Campaign Playbook</span>
+          <span class="sub">How to cut short clips for brands, streamers and artists · scorecards, rule-proof editing, worksheets and a 30-day plan</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://small-business-ads-guide.sites.tab.bot/" target="_blank" rel="noopener">
+        <img src="img/tiktok-ads-guide.jpg" width="600" height="600" alt="TikTok Ads for small business: free setup guide" loading="lazy">
+        <span class="body">
+          <span class="meta">Cresl Studio · web guide<span class="badge">Free</span></span>
+          <span class="title">TikTok Ads for Small Business: setup guide</span>
+          <span class="sub">Open a TikTok Ads account in about 10 minutes, run a first $20/day test campaign, and skip the common mistakes · plain English, no agency needed · contains an affiliate link</span>
+          <span class="price">Free</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+
+  <section class="group" aria-labelledby="h-picks">
+    <h2 id="h-picks">Studio Picks on Amazon</h2>
+    <p class="blurb">Machines for makers and small shops, as seen on our TikTok.</p>
+    <div class="cards">
+      <a class="card" href="https://www.amazon.com/dp/B0GJFL3WHS?tag=creslstudio-20" target="_blank" rel="noopener sponsored">
+        <img src="img/pick-cricut-explore-5.jpg" width="480" height="639" alt="Cricut Explore 5 cutting machine" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · studio pick<span class="badge">New</span></span>
+          <span class="title">Cricut Explore 5 Essential Bundle</span>
+          <span class="sub">12 inch cutting machine for decals, iron-on shirts, full-color stickers and cards · cuts 100+ materials · starter vinyl, iron-on and cardstock in the bundle</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0GR9XDQRJ?tag=creslstudio-20" target="_blank" rel="noopener sponsored">
+        <img src="img/pick-liene-pixcut-s1.jpg" width="480" height="639" alt="Liene PixCut S1 sticker printer" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · studio pick<span class="badge">New</span></span>
+          <span class="title">Liene PixCut S1 Sticker Printer &amp; Cutter</span>
+          <span class="sub">Prints and cuts stickers in one step · custom shop labels, planner and journal stickers, photo stickers · waterproof finish · no subscription</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0GRGRB91T?tag=creslstudio-20" target="_blank" rel="noopener sponsored">
+        <img src="img/pick-vevor-heat-press.jpg" width="480" height="639" alt="VEVOR 15 x 15 heat press" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · studio pick<span class="badge">New</span></span>
+          <span class="title">VEVOR 15 x 15 in Heat Press with Cap Press</span>
+          <span class="sub">2-in-1 press for your own shirts, caps, tote bags and pillows · exact temperature and time with an alarm · 360° swing-away</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+    <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+  </section>
+
+  <section class="group" aria-labelledby="h-kids">
+    <h2 id="h-kids">Kids Books by Little Guess Zoo</h2>
+    <p class="blurb">Big, bold coloring books in paperback on Amazon.</p>
+    <div class="cards">
+      <a class="card" href="https://www.amazon.com/dp/B0HNF7DDZD" target="_blank" rel="noopener">
+        <img src="img/abc-amz.jpg" width="495" height="640" alt="ABC Animals Coloring Book cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · paperback</span>
+          <span class="title">ABC Animals Coloring Book</span>
+          <span class="sub">Color, trace and learn the alphabet · 26 big bold animal pages · ages 2–5</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0HNF9PJB6" target="_blank" rel="noopener">
+        <img src="img/count-amz.jpg" width="495" height="640" alt="Count and Color 1 to 20 cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · paperback</span>
+          <span class="title">Count and Color 1 to 20</span>
+          <span class="sub">Numbers, counting and shapes with number tracing · ages 2–5</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://www.amazon.com/dp/B0HNF98FCC" target="_blank" rel="noopener">
+        <img src="img/dino-amz.jpg" width="495" height="640" alt="Dinosaur Facts Coloring Book cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Amazon · paperback</span>
+          <span class="title">Dinosaur Facts Coloring Book</span>
+          <span class="sub">30 dinosaurs with pronunciation, name tracing and true facts · ages 4–8</span>
+          <span class="price">See it on Amazon</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+  <section class="group" aria-labelledby="h-digital">
+    <h2 id="h-digital">Printable Downloads by Little Guess Zoo</h2>
+    <p class="blurb">The same books as instant-download PDFs, print at home.</p>
+    <div class="cards">
+      <a class="card" href="https://cresl1.gumroad.com/l/abc-animals-coloring-book" target="_blank" rel="noopener">
+        <img src="img/abc-pdf.jpg" width="600" height="600" alt="ABC Animals Coloring Book (PDF) cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Gumroad · printable PDF</span>
+          <span class="title">ABC Animals Coloring Book (PDF)</span>
+          <span class="sub">Alphabet coloring with letter tracing &amp; fun facts · printable · ages 2–5</span>
+          <span class="price">$8.99</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://cresl1.gumroad.com/l/count-and-color-1-to-20" target="_blank" rel="noopener">
+        <img src="img/count-pdf.jpg" width="600" height="600" alt="Count &amp; Color 1–20 (PDF) cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Gumroad · printable PDF</span>
+          <span class="title">Count &amp; Color 1–20 (PDF)</span>
+          <span class="sub">Numbers, shapes and tracing for preschool · printable · ages 2–5</span>
+          <span class="price">$8.99</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://cresl1.gumroad.com/l/dinosaur-facts-coloring-book" target="_blank" rel="noopener">
+        <img src="img/dino-pdf.jpg" width="600" height="600" alt="Dinosaur Facts Coloring Book (PDF) cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Gumroad · printable PDF</span>
+          <span class="title">Dinosaur Facts Coloring Book (PDF)</span>
+          <span class="sub">30 dinosaurs with true facts &amp; say-it pronunciation · printable · ages 4–8</span>
+          <span class="price">$9.99</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+      <a class="card" href="https://cresl1.gumroad.com/l/little-guess-zoo-activity-book" target="_blank" rel="noopener">
+        <img src="img/lgz-pdf.jpg" width="600" height="600" alt="Guess the Animal Activity Book (PDF) cover" loading="lazy">
+        <span class="body">
+          <span class="meta">Gumroad · printable PDF</span>
+          <span class="title">Guess the Animal Activity Book (PDF)</span>
+          <span class="sub">Riddles, mazes, word searches &amp; coloring · 12 zoo animals · ages 4–8</span>
+          <span class="price">$8.99</span>
+        </span>
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+  </main>
+
+  <footer>
+    <p><a href="mailto:creslstudio@mail.tab.bot">creslstudio@mail.tab.bot</a></p>
+    <p>© 2026 Cresl Studio · Little Guess Zoo is a Cresl Studio imprint. Gumroad prices as listed on Oct 21, 2026; Amazon shows its own current price.<br>As an Amazon Associate I earn from qualifying purchases.</p>
+  </footer>
+</body>
+</html>
